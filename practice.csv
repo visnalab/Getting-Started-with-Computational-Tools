@@ -1,0 +1,7 @@
+participant,condition,rt_ms
+1,congruent,400
+2,congruent,500
+3,congruent,600
+4,incongruent,500
+5,incongruent,600
+6,incongruent,700
